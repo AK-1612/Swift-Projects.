@@ -1,0 +1,14 @@
+Wordle (iOS, UIKit)
+
+A lightweight and functional Wordle clone built entirely with Swift and UIKit, featuring a modular MVC architecture and programmatic UI.
+
+Features :
+
+1. 6×5 game grid built using UICollectionView.
+2. On-screen QWERTY keyboard implemented via a separate controller.
+3. Letter input and board updates handled in real time.
+4. Automatic color feedback for letters (green/orange) after full row completion.
+
+Tech Stack: 
+1. Frameworks: UIKit. UICollectionView, AutoLayout.
+2. Language: XCode 26.0.
