@@ -1,15 +1,17 @@
-Wordle (iOS, UIKit)
+A clean, modern, and lightweight iOS Wordle clone built with Swift and UIKit. It supports 5-letter word guesses with intuitive keyboard input, color-coded feedback, and a responsive game board.
 
-A lightweight and functional Wordle clone built entirely with Swift and UIKit, featuring a modular MVC architecture and programmatic UI.
+This project demonstrates:
 
-Features :
+Implementation of a dynamic game board using UICollectionView.
 
-1. 6×5 game grid built using UICollectionView.
-2. On-screen QWERTY keyboard implemented via a separate controller.
-3. Letter input and board updates handled in real time.
-4. Automatic color feedback for letters (green/orange) after full row completion.
+Real-time feedback with color-coded boxes for correct, partially correct, and incorrect letters.
 
-Tech Stack: 
-1. Frameworks: UIKit. UICollectionView, AutoLayout.
-2. XCode 26.0.
-3. Swift 5.0.
+Modular MVC architecture with a clear separation of view, controller, and data logic.
+
+Auto Layout-based responsive design supporting all iPhone screen sizes.
+
+Game logic for managing guesses, word validation, and win/loss states.
+
+Ideal for learning core iOS development concepts like UI building, game logic integration, and view controller design.
+
+📱 Built with: Swift 5 • UIKit • Xcode 26.0
