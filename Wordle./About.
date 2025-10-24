@@ -11,4 +11,5 @@ Features :
 
 Tech Stack: 
 1. Frameworks: UIKit. UICollectionView, AutoLayout.
-2. Language: XCode 26.0.
+2. XCode 26.0.
+3. Swift 5.0.
